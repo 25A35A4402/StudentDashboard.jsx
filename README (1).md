@@ -79,7 +79,7 @@ To host this on your own GitHub Pages:
 1. Upload `index.html` to your repository
 2. Go to **Settings → Pages**
 3. Set Source: **Deploy from branch** → Branch: `main` → Folder: `/ (root)`
-4. Save — your dashboard will be live in 1–2 minutes at `https://your-username.github.io/your-repo/`
+4. Save — your dashboard will be live in 1–2 minutes at `https://25a35a4402.github.io/your-repo/`
 
 ---
 
