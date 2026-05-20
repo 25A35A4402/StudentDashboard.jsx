@@ -21,17 +21,13 @@ Built as a React artifact (runs entirely in the browser — no backend needed).
 
 ## 🚀 Getting Started
 
-### Option 1 — Run in Claude (No Setup)
-
-Paste the `StudentDashboard.jsx` code directly into [Claude.ai](https://claude.ai) as a React artifact. It runs instantly in the browser with sample data preloaded.
-
-### Option 2 — Run Locally with React
+### Option 1 — Run Locally with React
 
 **Prerequisites:** Node.js (v16+), npm
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/student-marks-analyzer.git
+git clone https://github.com/25a35a4402.github.io./student-marks-analyzer.git
 cd student-marks-analyzer
 
 # 2. Create a new React app
