@@ -27,7 +27,7 @@ Built as a React artifact (runs entirely in the browser — no backend needed).
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/25a35a4402.github.io./student-marks-analyzer.git
+git clone https://github.com/25a35a4402.github.io./StudentDashboard.jsx.git
 cd student-marks-analyzer
 
 # 2. Create a new React app
